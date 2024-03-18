@@ -1,3 +1,3 @@
-# bootcamp-task2
-## filterd list of array with date, titles and completed
-## functionaly
+# Bootcamp-task2
+## Filterd list of array with date, titles and completed
+## Based on functions
