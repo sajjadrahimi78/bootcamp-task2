@@ -1,2 +1,2 @@
 # bootcamp-task2
-##filterd data with date, titles and completed
+## filterd data with date, titles and completed
