@@ -1,3 +1,3 @@
 # bootcamp-task2
-## filterd data with date, titles and completed
-functionaly
+## filterd list of array with date, titles and completed
+## functionaly
